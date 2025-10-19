@@ -1,5 +1,3 @@
-# lok
-bebas
 import telebot
 import os
 import uuid
